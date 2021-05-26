@@ -44,4 +44,4 @@
 <br>
 <br>
     
-<h2 align = "center" > please do not hesitate to contact me if you have any questions! 😎 </h2>
+<p align = "center" > please do not hesitate to contact me if you have any questions! 😎 </p>
