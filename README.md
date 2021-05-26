@@ -39,9 +39,11 @@
 <h2 align = "center" > 🎧 More want to know? 🎧 </h2>
 <p align="center">
     <a href="https://open.spotify.com/embed/playlist/1nCKBpBCy4ePoTnhSVU47A" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"><img src="https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=Spotify&logoColor=white&link=https://open.spotify.com/embed/playlist/1nCKBpBCy4ePoTnhSVU47A"/></a> &nbsp;
-    <a href="https://blog.naver.com/superkingyj" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/superkingyj">
+    <a href="https://blog.naver.com/superkingyj" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/superkingyj"> </a>
 </p>
 <br>
 <br>
     
-<p align = "center" > please do not hesitate to contact me if you have any questions! 😎 </p>
+<p align = "center" > Please do not hesitate to contact me if you have any questions!
+    <a href="yujinkim0707@gmail.com"> <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=yujinkim0707@gmail.com"> </a>
+</p>
