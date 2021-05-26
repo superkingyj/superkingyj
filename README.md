@@ -1,4 +1,6 @@
+<p align = "center">
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=300&section=header&text=RoxyYujinKim&fontSize=90" />
+</p>
 
 <h2 align = "center"> It's me! RoxyYujinKim! </h2> 
 <h3 align = "center"> 
