@@ -19,26 +19,26 @@
 <br>
 <h2 align = "center" > 🛠 Tech Stack 🛠 </h2>
 <p align = "center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> &nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"> &nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> &nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"> &nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"> &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> &nbsp;
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"> &nbsp;
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> &nbsp;
+    <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"> &nbsp;
+    <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"> &nbsp;
     <br>
-    <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"> &nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"> &nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"> &nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"> &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"> &nbsp;
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"> &nbsp;
+    <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"> &nbsp;
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"> &nbsp;
     <br>
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"> &nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=c-sharp&logoColor=white"> &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"> &nbsp;
+    <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=c-sharp&logoColor=white"> &nbsp;
 </p>
 <br>
 <br>
 
 <h2 align = "center" > 🎧 More want to know? 🎧 </h2>
 <p align="center">
-    <a href="https://open.spotify.com/embed/playlist/1nCKBpBCy4ePoTnhSVU47A" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"><img src="https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=Spotify&logoColor=white&link=https://open.spotify.com/embed/playlist/1nCKBpBCy4ePoTnhSVU47A"/></a>
+    <a href="https://open.spotify.com/embed/playlist/1nCKBpBCy4ePoTnhSVU47A" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"><img src="https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=Spotify&logoColor=white&link=https://open.spotify.com/embed/playlist/1nCKBpBCy4ePoTnhSVU47A"/></a> &nbsp;
     <a href="https://blog.naver.com/superkingyj" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/superkingyj">
 </p>
     
