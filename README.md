@@ -45,5 +45,5 @@
 <br>
     
 <p align = "center" > Please do not hesitate to contact me if you have any questions!
-    <a href="yujinkim0707@gmail.com"> <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=yujinkim0707@gmail.com"> </a>
+    <a href="mailto:yujinkim0707@gmail.com"> <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:yujinkim0707@gmail.com"></a>
 </p>
