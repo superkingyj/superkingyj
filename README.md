@@ -4,9 +4,9 @@
 
 <h2 align = "center"> It's me! RoxyYujinKim! </h2> 
 <h3 align = "center"> 
-<p align = "center"> 🤟 4th year of university majoring It Media Engineering</p>
-<p align = "center">🤟 Making graduate project - AR Tatoo simulation</p>
-<p align = "center">🤟 Rock lover</p>
+<li align = "center"> 🤟 4th year of university majoring It Media Engineering</li>
+<li align = "center">🤟 Making graduate project - AR Tatoo simulation</li>
+<li align = "center">🤟 Rock lover</li>
 </h3>
 <br>
 <br>
