@@ -1,10 +1,10 @@
 <p align = "center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=300&section=header&text=RoxyYujinKim&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&height=300&section=header&text=RoxyYujinKim&fontSize=90" />
 </p>
 
 <h2 align = "center"> It's me! RoxyYujinKim! </h2> 
 <p align = "center">
-<img src = "https://user-images.githubusercontent.com/43868490/119626515-4506e500-be46-11eb-9894-8ccf6066627e.jpg">
+<img src = "https://user-images.githubusercontent.com/43868490/119626515-4506e500-be46-11eb-9894-8ccf6066627e.jpg" height="100">
 </p>
 
 <li align = "center"> 🤟 4th year of university majoring It Media Engineering</li>
