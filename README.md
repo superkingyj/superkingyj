@@ -2,6 +2,8 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=RoxyYujinKim&fontSize=90" />
 </p>
 
+<br>
+<br>
 <p align = "center">
 <img src = "https://user-images.githubusercontent.com/43868490/119626515-4506e500-be46-11eb-9894-8ccf6066627e.jpg" height="370">
 </p>
