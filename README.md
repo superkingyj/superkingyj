@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=300&section=header&text=😎RoxyYujinKim&fontSize=90&fontColor=)
 
-<h2 algin = "center"> It's me! RoxyYujinKim! </h2>
+<h2 algin = "center"> It's me! RoxyYujinKim! </h2> 
 <h3 algin = "center"> 
-🤟 4th year of university majoring It Media Engineering
-🤟 Making graduate project - AR Tatoo simulation
-🤟 Rock lover
+<p algin = "center"> 🤟 4th year of university majoring It Media Engineering</p>
+<p algin = "center">🤟 Making graduate project - AR Tatoo simulation</p>
+<p algin = "center">🤟 Rock lover</p>
 </h3>
 
 <h2 algin = "center" > 🛠 Tech Stack 🛠 </h2>
