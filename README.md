@@ -5,9 +5,11 @@
 <img src = "https://user-images.githubusercontent.com/43868490/119626515-4506e500-be46-11eb-9894-8ccf6066627e.jpg" height="250">
 </p>
 
-<p align = "center"> 🤟 4th year of university - majoring It Media Engineering</p>
-<p align = "center"> 🤟 Making graduate project - AR Tatoo simulation</p>
-<p align = "center"> 🤟 Rock lover</p>
+<p align = "center"> 
+🤟 4th year of university - majoring It Media Engineering <br>
+🤟 Making graduate project - AR Tatoo simulation <br>
+🤟 Rock lover <br>
+</p>
 
 <h2 align = "center" > 🛠 Tech Stack 🛠 </h2>
 <p align = "center">
