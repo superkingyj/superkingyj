@@ -1,5 +1,5 @@
 <p align = "center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=RoxyYujinKim&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=RoxyYujinKim&fontSize=70" />
 </p>
 <p align = "center">
 <img src = "https://velog.velcdn.com/images/superkingyj/post/e98f40cc-d9f7-4a82-93aa-266e4b336bff/image.jpg" height="250">
@@ -30,6 +30,6 @@
     <a href="https://coding-rocker.tistory.com/" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://coding-rocker.tistory.com/"> </a>
 </h3>
 
-<h3 align = "center" > Please do not hesitate to contact me if you have any questions!
+<p align = "center" > Please do not hesitate to contact me if you have any questions!
     <a href="mailto:yujinkim0707@gmail.com"> <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:yujinkim0707@gmail.com"></a>
-</h3>
+</p>
