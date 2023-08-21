@@ -2,19 +2,18 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=RoxyYujinKim&fontSize=70" />
 </p>
 <p align = "center">
-<img src = "https://user-images.githubusercontent.com/43868490/119626515-4506e500-be46-11eb-9894-8ccf6066627e.jpg" height="250">
+<img src = "https://velog.velcdn.com/images/superkingyj/post/e98f40cc-d9f7-4a82-93aa-266e4b336bff/image.jpg" height="250">
 </p>
 
 <p align = "center"> 
-🤟 4th year of university - majoring It Media Engineering <br>
-🤟 Making graduate project - AR Tatoo simulation <br>
+🤟 Majored IT Media Engineering <br>
+🤟 These days, I'm deeply immersed in Django <br>
 🤟 Rock lover <br>
 </p>
 
 <h2 align = "center" > 🛠 Tech Stack 🛠 </h2>
 <p align = "center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> &nbsp;
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"> &nbsp;
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> &nbsp;
     <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"> &nbsp;
     <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"> &nbsp;
@@ -22,10 +21,6 @@
     <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"> &nbsp;
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"> &nbsp;
     <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"> &nbsp;
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"> &nbsp;
-    <br>
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"> &nbsp;
-    <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=c-sharp&logoColor=white"> &nbsp;
 </p>
 
 <h2 align = "center" > 🎧 More want to know? 🎧 </h2>
